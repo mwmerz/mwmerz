@@ -6,7 +6,6 @@ I am Michael.  I work as a full-time software engineer focusing primarily on blo
 - 📫 How to reach me: 
   - Twitter: [@MichaelWMerz](https://twitter.com/MichaelWMerz)
   - LinkedIn: [Michael Merz](https://www.linkedin.com/in/michael-merz-005ba4258/)
-- ⚡ Fun fact: In my free time, I play bass guitar 🎸.
 
 ## **Languages and Tools:**
 
