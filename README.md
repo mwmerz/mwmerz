@@ -16,7 +16,7 @@ I am Michael.  I work as a full-time software engineer focusing primarily on blo
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/9583076d45a8ca22ff5c61e1554474ac0b88e41b/topics/php/php.png"></code>
 
 ## **Chains:**
-<code>[<img height="20" src="https://raw.githubusercontent.com/osmosis-labs/osmosis-frontend/741fcd1c3d146b236da99dcdc489e181c0e59488/packages/web/public/tokens/osmo.svg"/>](https://osmosis.zone)</code>
 <code>[<img height="20" src="https://assets.coingecko.com/coins/images/25767/small/01_Luna_color.png?1653556122"/>](https://terra.money)</code>
+<code>[<img height="20" src="https://raw.githubusercontent.com/osmosis-labs/osmosis-frontend/741fcd1c3d146b236da99dcdc489e181c0e59488/packages/web/public/tokens/osmo.svg"/>](https://osmosis.zone)</code>
 <code>[<img height="20" src="https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880"/>](https://ethereum.org)</code>
 <code>[<img height="20" src="https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png?1624446912"/>](https://polygon.technology/)</code>
