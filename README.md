@@ -3,9 +3,6 @@ I am Michael.  I work as a full-time software engineer focusing primarily on blo
 
 - 🔭 I’m currently working on frontends for Cosmos-SDK based chains.
 - 💬 Ask me about projects [here](https://github.com/mwmerz/mwmerz/issues).
-- 📫 How to reach me: 
-  - Twitter: [@MichaelWMerz](https://twitter.com/MichaelWMerz)
-  - LinkedIn: [Michael Merz](https://www.linkedin.com/in/michael-merz-005ba4258/)
 
 ## **Languages and Tools:**
 
@@ -18,5 +15,3 @@ I am Michael.  I work as a full-time software engineer focusing primarily on blo
 ## **Chains:**
 <code>[<img height="20" src="https://assets.coingecko.com/coins/images/25767/small/01_Luna_color.png?1653556122"/>](https://terra.money)</code>
 <code>[<img height="20" src="https://raw.githubusercontent.com/osmosis-labs/osmosis-frontend/741fcd1c3d146b236da99dcdc489e181c0e59488/packages/web/public/tokens/osmo.svg"/>](https://osmosis.zone)</code>
-<code>[<img height="20" src="https://assets.coingecko.com/coins/images/279/small/ethereum.png?1595348880"/>](https://ethereum.org)</code>
-<code>[<img height="20" src="https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png?1624446912"/>](https://polygon.technology/)</code>
